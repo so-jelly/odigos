@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Binject/shellcode v0.0.0-20191101084904-a8a90e7d4563
-	github.com/docker/docker v20.10.22+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/fatih/color v1.13.0
 	github.com/go-logr/logr v1.2.3
 	github.com/go-logr/zapr v1.2.3
